@@ -6,5 +6,5 @@ Therefore leaing to better Production rate and better Delivery rate. This is a w
 Multiple CRm tools are out open in the market. But not many are dedicated to Motor Companies, even if the are, most of them are paid or have not grate computing power.</br>
 My tool is beneficial. To get started please read 'get_started.md'.</br></br>
 
-**Contact:**
+**Contact:**</br>
 Email: valetrix.mail@gmail.com
